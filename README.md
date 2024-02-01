@@ -15,10 +15,12 @@
 --forgotPassword
 <img src="images/forget_passwordScreenShot.png">
 
+--Get Otp For Reset PassWord'
+
+<img src="images/forgotPassOtpScreenShot.png">
+
 --resetPassword
 <img src="images/userRegisterScreenShot.png">
 
---Get Otp For Reset PassWord'
 
-<img src="images/userRegisterScreenShot.png">
 
