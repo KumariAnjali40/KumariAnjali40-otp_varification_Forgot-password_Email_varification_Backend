@@ -20,7 +20,7 @@
 <img src="images/forgotPassOtpScreenShot.png">
 
 --resetPassword
-<img src="images/userRegisterScreenShot.png">
+<img src="images/resetPasswordScreenshot.png">
 
 
 
