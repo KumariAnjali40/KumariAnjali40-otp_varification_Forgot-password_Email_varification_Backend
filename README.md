@@ -4,7 +4,7 @@
 <img src="images/userRegisterScreenShot.png">
 
 --getOtp
-<img src="images/userRegisterScreenShot.png">
+<img src="images/getOtp.png">
 
 --Get OTP To Register Email 
 <img src="images/userRegisterScreenShot.png">
