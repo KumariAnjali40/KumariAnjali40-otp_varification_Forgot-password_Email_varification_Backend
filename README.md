@@ -10,7 +10,7 @@
 <img src="images/otpGetInMailScreenShot.png">
 
 --verifyOtp
-<img src="images/userRegisterScreenShot.png">
+<img src="images/verifYOtpScreenShot.png">
 
 --forgotPassword
 <img src="images/userRegisterScreenShot.png">
