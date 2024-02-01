@@ -13,7 +13,7 @@
 <img src="images/verifYOtpScreenShot.png">
 
 --forgotPassword
-<img src="images/userRegisterScreenShot.png">
+<img src="images/forget_passwordScreenShot.png">
 
 --resetPassword
 <img src="images/userRegisterScreenShot.png">
